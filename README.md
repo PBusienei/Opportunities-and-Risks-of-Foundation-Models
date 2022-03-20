@@ -48,9 +48,9 @@ From the report there were more than 100 researchers from more than 10 departmen
 
 ## Discussion Topic 2
 
-The report definition of foundation models highlights that *" foundation models are trained on broad data at scale"*. How is broad is broad data at scale? How can it be adapted to a wide range of downstream tasks?
+The report definition of foundation models highlights that **" foundation models are trained on broad data at scale"**. How is broad is broad data at scale? How can it be adapted to a wide range of downstream tasks?
 
-![image](images/distributions1.png) | ![image](images/distribution2.png)
+![image](images/distributions1.png)  ![image](images/distribution2.png)
 
 
 ## Discussion Topic 3
