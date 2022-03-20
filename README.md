@@ -64,13 +64,10 @@ The report highlighted the benefits and risks of the foundation models and creat
 
 ## Resource links
 
-Original Article: https://arxiv.org/abs/2108.07258
-
-Code and trained Foundation Models are released at https://github.com/stanford-crfm/transformers
-
-GPT-Neo 1.3B transformers https://huggingface.co/EleutherAI/gpt-neo-1.3B
-
-Data Manegement http://cidrdb.org/cidr2022/papers/p51-orr.pdf
+* [Original Article](https://arxiv.org/abs/2108.07258)
+* [Code and trained Foundation Models are released at ](https://github.com/stanford-crfm/transformers)
+* [GPT-Neo 1.3B transformers](https://huggingface.co/EleutherAI/gpt-neo-1.3B)
+* [Data Manegement](http://cidrdb.org/cidr2022/papers/p51-orr.pdf)
 
 ## Code demonstration
 
