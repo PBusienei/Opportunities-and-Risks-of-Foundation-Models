@@ -1,4 +1,6 @@
 
+[![arXiv](https://img.shields.io/badge/arXiv-22108.07258-f9f107.svg)](https://arxiv.org/abs/2108.07258)
+
 ![image](images/Elmo.png)
 
 # Opportunities-and-Risks-of-Foundation-Models
@@ -72,7 +74,8 @@ Data Manegement http://cidrdb.org/cidr2022/papers/p51-orr.pdf
 
 ## Code demonstration
 
-The code has not yet been made available.
+Google colab provides GPU/TPU for free, which should be enough to fine-tune our model up to GPT3XL (1.5B parameter) sizes.
+Click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EleutherAI/GPTNeo/blob/master/GPTNeo_example_notebook.ipynb) to run through our example colab notebook.
 
 ## Video Recording
 
