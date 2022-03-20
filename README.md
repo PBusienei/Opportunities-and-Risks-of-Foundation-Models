@@ -58,7 +58,7 @@ The Foundation models provide excellent in adapting to downstream tasks. What do
 
 ## Critical Analysis
 
-The report highlighted the benefits and risks of the foundation models and created an avenue for institution that do not have large compute power in comparison to large companies like google, facebook, etc to create foundation models that can be generalize to other tasks.They did not indicate how to mitigate harms cause by foundation models during emergence. If this is a limitation is should be highlighted. If we think about the whole ecosystem from data curation to training a model to adapting to downstream tasks to the deployment of the model, I believe that ought to better characterize the properties of datasets and models.
+The report highlighted the benefits and risks of the foundation models and created an avenue for institutions that do not have large compute power in comparison to large companies like google, facebook, etc to create foundation models that can be generalize to downstream tasks.They did not indicate how to mitigate harms cause by foundation models during emergence. This limitation should be highlighted. If we think about the whole ecosystem from data curation to training a model to adapting to downstream tasks to the deployment of the model, I believe there ought to better characterization of the properties in datasets and models.
 
 ## Resource links
 
