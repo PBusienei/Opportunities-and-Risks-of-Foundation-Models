@@ -72,7 +72,7 @@ The report highlighted the benefits and risks of the foundation models and creat
 ## Code demonstration
 
 Google colab provides GPU/TPU for free, which should be enough to fine-tune our model up to GPT3XL (1.5B parameter) sizes.
-Click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EleutherAI/GPTNeo/blob/master/GPTNeo_example_notebook.ipynb) to run through our example colab notebook.
+Click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ns9amI_zHKmab9DKetuptYq3xman_o9e) to run through the example colab notebook.
 
 ## Video Recording
 
