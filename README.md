@@ -71,8 +71,8 @@ The report highlighted the benefits and risks of the foundation models and creat
 
 ## Code demonstration
 
-Google colab provides GPU/TPU for free, which should be enough to fine-tune our model up to GPT3XL (1.5B parameter) sizes.
-Click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ns9amI_zHKmab9DKetuptYq3xman_o9e) to run through the example colab notebook.
+Google colab provides GPU/TPU for free, which should be enough to fine-tune our model up to use OpenAI CLIP Model.
+Click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_houFU82nyHqcEyFb7zBAJ0eYt_isBB_#scrollTo=DgPpmF-Uy5XY) to run through the demonstration colab notebook.
 
 ## Video Recording
 
