@@ -76,4 +76,4 @@ Click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg
 
 ## Video Recording
 
-The Link to video recording coming soon.
+The Link to video is [here](https://youtu.be/Vsjw-oDTZf0)
